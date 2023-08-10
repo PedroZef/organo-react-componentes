@@ -7,24 +7,30 @@ const Rodape = () => {
        <ul>
             <li>
                 <a href="https://twitter.com/PedroZeferinod6" target="blank">
-                <img src="/imagens/twitter.png" alt="Twitter" />
+                    <img src="/imagens/twitter.png" alt="Twitter" />
                 </a>
             </li>
-                <li>
-                    <a href="https://github.com/PedroZef" target="blank">🐱</a>
+            <li>
+                <a href="https://github.com/PedroZef" target="blank">
+                    <img src="/imagens/github.png" alt="Github" />
+                </a>
+                    
                 </li> 
             <li>
-                    <a href="https://www.facebook.com/pedro.zeferinodasilva" target="blank">
+                <a href="https://www.facebook.com/pedro.zeferinodasilva" target="blank">
                     <img src="/imagens/facebook.png" alt="Facebook" />
                 </a>
             </li>
                 <li>
-                    <a href="https://linkedin.com/in/pedro-zeferino-da-silva" target="blank">🔗</a>
+                    <a href="https://linkedin.com/in/pedro-zeferino-da-silva" target="blank">
+                        <img src="/imagens/linkedin.png" alt="Linkedin" />
+                    </a>
+
                 </li>
           
             <li>
                     <a href="https://instagram.com/pedrozeferinodasilva" target="blank">
-                    <img src="/imagens/instagram.png" alt="Instagran" />
+                        <img src="/imagens/instagram.png" alt="Instagran" />
                 </a>
             </li>
         </ul>
